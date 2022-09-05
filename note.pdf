@@ -1,0 +1,8 @@
+I learnt:
+
+1. using <CartStyle onClick={(e) => e.stopPropagation()}> (Cart.js)
+    will stop the child componment to have the parents charater. ex: it is useful to create card
+
+2. auto resize website:
+    
+3. border-radius: 50%;(NavStyles.js) --- make the shape round 
